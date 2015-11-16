@@ -1,4 +1,4 @@
-(ns concurrent-clojure.core)
+(ns concurrent-clojure.futures-promises)
 
 (defn foo
   "I don't do a whole lot."
